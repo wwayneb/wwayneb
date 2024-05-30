@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to generate and explore visualizations of signal recordings.
 
 - 📫 How to reach me 
-   - Twitter <a href="https://twitter.com/wsmith1989">@wsmith1989</a>
    - Wordpress <a href="https://blog.wwayneb.com">https://blog.wwayneb.com</a> (poetry)
    - Wordpress <a href="https://blog.sesquibits.com">https://blog.sesquibits.com</a> (other)
    - Wordpress <a href="https://blog.smilingy.com">https://blog.smilingy.com</a> (math and technology)
