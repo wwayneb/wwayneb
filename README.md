@@ -5,7 +5,7 @@
 - 📫 How to reach me 
    - Wordpress <a href="https://blog.wwayneb.com">https://blog.wwayneb.com</a> (poetry)
    - Wordpress <a href="https://blog.sesquibits.com">https://blog.sesquibits.com</a> (other)
-   - Wordpress <a href="https://blog.smilingy.com">https://blog.smilingy.com</a> (math and technology)
+   - Wordpress <a href="https://williamwaynesmiht.com">https://williamwaynesmith.com</a> (math and technology)
    - YouTube <a href="https://youtube.com/@smiling.y">@Smiling.Y</a>
    - DeviantArt <a href="https://smilingy.deviantart.com">https://smilingy.deviantart.com</a>
    - Patreon <a href="https://patreon.com/williamwaynesmith">https://patreon.com/williamwaynesmith</a>
